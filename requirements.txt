@@ -4,6 +4,7 @@ Flask>=1.1.2
 Flask-SQLAlchemy>=2.4.4
 Flask-Security-Too==3.4.5
 flask-seasurf>=0.2.2
+Flask-Mail
 bcrypt>=3.2.0
 Werkzeug>=1.0.1
 maya>=0.6.1
